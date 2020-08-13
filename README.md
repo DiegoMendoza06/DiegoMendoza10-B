@@ -1,0 +1,1 @@
+# Impacto-de-la-tecnolog-a-en-tiempos-de-pandemia
