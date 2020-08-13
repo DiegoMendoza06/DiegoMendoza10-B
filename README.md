@@ -78,14 +78,14 @@
 </head>
 <body>
 	<h1>Impacto de la tecnología en tiempos de pandemia</h1>
-	<img id="pandemia1" src="Pandemia1.jpg" alt="Dispositivos tecnologicos">
+	<img id="pandemia1" src="https://www.elestrechodigital.com/wp-content/uploads/ps-dis2-768x500.jpg" alt="Dispositivos tecnologicos">
 	<p>Estamos viviendo un momento muy desafiante y sin precedentes a nivel mundial por causa del <a target="_blank" href="https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx"><strong>coronavirus</strong></a>.Todos sentimos por primera vez el impacto de una pandemia que nos obligó a modificar varios de nuestras hábitos rapidamente.</p>
 
 	<p>Definitivamente la tecnología ha desempeñado un papel muy importante hasta ahora en la tarea de intentar superar varios de estos retos. En particular los smartphones nos han ayudado en diversos grados a mantenernos informados y comunicados con las demás personas, a dar continuidad a nuestras tareas ya sean laborales o escolares.</p>
 
 	<p>Para comprender mejor su <em>impacto</em> hay tres aspectos en los cuales podemos ver el impacto que ha tenido la tecnología en estos tiempos, estos son: comunicación, teletrabajo, clases en linea</p>
 
-	<img id="pandemia2" src="Pandemia2.jpg" alt="Computadora">
+	<img id="pandemia2" src="https://static.teamviewer.com/resources/2019/04/TeamViewer-file-transfer-software-1024x683.jpg" alt="Computadora">
 
 	<ul>
 		<li><a href="#Comunicacion">Comunicación</a></li>
@@ -95,7 +95,7 @@
 
 	<h2 id="Comunicacion">Comunicación</h2>
 
-	<img id="pandemia3"src="Pandemia3.jpg" alt="Imagen alusiva a la comunicación" width= "500">
+	<img id="pandemia3" src="https://www.dictea.es/images/easyblog_articles/249/comunicacion-asertiva-psicologia-sevilla.jpg" alt="Imagen alusiva a la comunicación" width= "500">
 
 	<p>La comunicación, como nunca antes en la historia de la humanidad en menos de 4 meses la información del virus se ha expandido gracias a los medios y usuarios con dispositivos móviles al alcance</p>
 
@@ -105,7 +105,7 @@
     
     <h2 id="teletrabajo">Teletrabajo</h2>
      
-     <img id="pandemia4" src="Pandemia4.jpg" alt="Imagen alusiva al teletrabajo">
+     <img id="pandemia4" src="https://b-talent.com/wp-content/uploads/2020/03/portada-blog-teletrabajo.jpg" alt="Imagen alusiva al teletrabajo">
 
      <p>Otro punto importante es la forma de trabajar, en tiempos de Coronavirus hay un término que cada vez escuchamos con mayor frecuencia y es Teletrabajo. Gracias a que podemos mantenernos conectados con Smartphones y redes inalámbricas tenemos la capacidad de trabajar de manera remota.</p>
 
@@ -131,7 +131,7 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p>En la circunstancia actual en que no hay posibilidad de que alumnos y maestros se reúnan en las escuelas quienes tengan un mayor acceso a las TIC estarán en una ventaja sobre quienes tienen menor acceso a esas tecnologías.</p>
 
-     <img id="pandemia6" src="Pandemia6.jpg" alt="Abuelo aprendiendo a usar la tecnología">
+     <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
 
      <p>Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
