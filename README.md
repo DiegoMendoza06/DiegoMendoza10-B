@@ -135,4 +135,4 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p>Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
-     <p id="modificacion">Ultima fecha de modificación: 13/08/2020<p>
+     <p id="modificacion">Ultima fecha de modificación: <strong>13/08/2020</strong><p>
