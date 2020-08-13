@@ -121,7 +121,7 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <h2 id="Clases">Clases en linea</h2>
 
-     <img id="pandemia5" src="Pandemia5.jpg" alt="Imagen alusiva a las clases en linea">
+     <img id="pandemia5" src="https://udlondres.com/wp-content/uploads/2020/03/2020_m03_d19_ClasesEnLi%CC%81neaZoom_V01_BR.png" alt="Imagen alusiva a las clases en linea">
 
      <p>El cierre de las escuelas ha tenido un alto impacto en la educación. Esto ha llevado a la búsqueda de un replanteamiento rápido sobre cómo dar continuidad al quehacer educativo. En la nueva circunstancia, maestros y alumnos tienen que comunicarse desde sus respectivos hogares, en vez de encontrarse en la escuela.</p>
 
@@ -131,7 +131,7 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p>En la circunstancia actual en que no hay posibilidad de que alumnos y maestros se reúnan en las escuelas quienes tengan un mayor acceso a las TIC estarán en una ventaja sobre quienes tienen menor acceso a esas tecnologías.</p>
 
-     <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
+     <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/     barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
 
      <p>Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
