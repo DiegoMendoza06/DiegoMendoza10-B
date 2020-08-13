@@ -131,7 +131,7 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p>En la circunstancia actual en que no hay posibilidad de que alumnos y maestros se reúnan en las escuelas quienes tengan un mayor acceso a las TIC estarán en una ventaja sobre quienes tienen menor acceso a esas tecnologías.</p>
 
-     <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/     barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
+     <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
 
      <p>Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
