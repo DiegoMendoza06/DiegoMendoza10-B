@@ -60,12 +60,12 @@
 			margin-right: 10px;
 			margin-bottom: 10px;
 			float: left;
+			clear: both;
 				
 		}
 
 		#modificacion{
 			clear: both;
-			background-color: rgb(255, 255, 255);
 			color: black;
 			padding: 6px;
 		}
@@ -75,8 +75,14 @@
 			margin-right: 10px;
 			margin-bottom: 10px;
 			float: left;
+
 		}
 
+		#Intro{
+			text-align: center;
+		}
+
+		
 
 
 
@@ -84,6 +90,17 @@
 	</style>
 </head>
 <body>
+	
+<div id="Intro">
+	<p>Diego Fernando Mendoza</p>
+   <p>10-B</p>
+   <p>I.E La Milagrosa</p>
+   <p>Proyecto Final Tecnología</p>
+
+</div>
+   
+
+
 	<h1>Impacto de la tecnología en tiempos de pandemia</h1>
 	<img id="pandemia1" src="https://www.elestrechodigital.com/wp-content/uploads/ps-dis2-768x500.jpg" alt="Dispositivos tecnologicos">
 	<p>Estamos viviendo un momento muy desafiante y sin precedentes a nivel mundial por causa del <a target="_blank" href="https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx"><strong>coronavirus</strong></a>.Todos sentimos por primera vez el impacto de una pandemia que nos obligó a modificar varios de nuestras hábitos rapidamente.</p>
@@ -156,8 +173,10 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <img id="pandemia6" src="https://previews.123rf.com/images/barabasa/barabasa1309/barabasa130900045/22448473-viejo-abuelo-aprender-a-usar-la-tecnolog%C3%ADa-moderna-.jpg" alt="Abuelo aprendiendo a usar la tecnología">
 
-     <p>Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
+     <p id="final">Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
-     <p id="modificacion">Ultima fecha de modificación: <strong>19/08/2020</strong><p>
+     <marquee behavior="scroll" direction="rigth"><p id="modificacion"><strong>Ultima fecha de modificación: 19/08/2020</strong><p></marquee>
+
+
 
 
