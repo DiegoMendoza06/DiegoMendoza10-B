@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -183,7 +183,5 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p id="final">Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
-     <marquee behavior="scroll" direction="rigth"><p id="modificacion"><strong>Ultima fecha de modificación: 21/09/2020</strong><p></marquee>
+     <marquee behavior="scroll" direction="rigth"><p id="modificacion"><strong>Ultima fecha de modificación: 21/09/2020</strong><p>
 
-</html>
-</body>
