@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -82,6 +82,12 @@
 			text-align: center;
 		}
 
+		#diego{
+			width: 250px;
+			margin-right: 10px;
+			margin-bottom: 10px;
+		}
+
 		
 
 
@@ -90,6 +96,8 @@
 	</style>
 </head>
 <body>
+
+	<div align="center"><iframe id="diego" src="https://drive.google.com/file/d/1nBPhhFXwCtR50FbgNpTw0rxxHJLfeo5d/preview" width="640" height="480"></iframe></div>
 	
 <div id="Intro">
 	<p>Diego Fernando Mendoza</p>
@@ -175,8 +183,7 @@ Teletrabajo Autónomo: Trabajadores independientes o empleados que se valen de l
 
      <p id="final">Con el uso de las tecnologias, también surgió la necesidad de  que muchas personas se capacitaran en el manejo de equipos tecnológicos para comunicación, partiendo desde maestros y alumnos, y hasta a personass que nunca han utilizado ningun tipo de tecnología.</p>
 
-     <marquee behavior="scroll" direction="rigth"><p id="modificacion"><strong>Ultima fecha de modificación: 09/09/2020</strong><p>
+     <marquee behavior="scroll" direction="rigth"><p id="modificacion"><strong>Ultima fecha de modificación: 21/09/2020</strong><p></marquee>
 
-
-
-
+</html>
+</body>
